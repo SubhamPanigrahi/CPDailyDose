@@ -9,7 +9,6 @@ Lets start with the road-map to Competitive Programming<br>
 <br>
 
 ## Day 1 includes the following Problems
-----------------------------------------
 
 
 * [EVENTUAL](https://www.codechef.com/problems/EVENTUAL) . [Sol](https://www.codechef.com/viewsolution/35823714)<br>
