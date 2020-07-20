@@ -13,7 +13,7 @@ Lets start with the road-map to Competitive Programming<br>
 
 * [EVENTUAL](https://www.codechef.com/problems/EVENTUAL) . [Sol](https://www.codechef.com/viewsolution/35823714)<br>
 * [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX) . [Sol](https://www.codechef.com/viewsolution/35836294)<br>
-* [ADDREV](https://www.spoj.com/problems/ADDREV/) . [Sol]()
+* [ADDREV](https://www.spoj.com/problems/ADDREV/) . [Sol](https://github.com/SubhamPanigrahi/CPDailyDose/blob/master/Day%201/addrev.cpp)
 
 
 
