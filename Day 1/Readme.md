@@ -7,7 +7,9 @@ Lets start with the road-map to Competitive Programming<br>
 * Roadmap to CP by Striver. Link [here](https://www.youtube.com/watch?v=zZOQVLll9u4)<br>
 <br>
 <br>
+
 ## Day 1 includes the following Problems
+----------------------------------------
 
 
 * [EVENTUAL](https://www.codechef.com/problems/EVENTUAL) . [Sol](https://www.codechef.com/viewsolution/35823714)<br>
