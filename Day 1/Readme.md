@@ -10,14 +10,8 @@ Lets start with the road-map to Competitive Programming<br>
 
 ## Day 1 includes the following Problems
 
-
-  . <br>
- [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX) . <br>
- . 
-
-
 |   Problems    |   Solutions   |
 | ------------- | ------------- |
-| [EVENTUAL](https://www.codechef.com/problems/EVENTUAL)  | [Sol](https://www.codechef.com/viewsolution/35823714)  |
-| [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX)  | [Sol](https://www.codechef.com/viewsolution/35836294)  |
-|  [ADDREV](https://www.spoj.com/problems/ADDREV/) | [Sol](https://github.com/SubhamPanigrahi/CPDailyDose/blob/master/Day%201/addrev.cpp) |
+|  [EVENTUAL](https://www.codechef.com/problems/EVENTUAL)           | [Sol](https://www.codechef.com/viewsolution/35823714)                                |
+|  [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX)  | [Sol](https://www.codechef.com/viewsolution/35836294)                                |
+|  [ADDREV](https://www.spoj.com/problems/ADDREV/)                  | [Sol](https://github.com/SubhamPanigrahi/CPDailyDose/blob/master/Day%201/addrev.cpp) |
