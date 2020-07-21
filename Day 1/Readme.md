@@ -1,5 +1,5 @@
-# Welcome to Day 1
-------------------
+# Welcome to Day 1 : Introduction
+---------------------------------
 
 Lets start with the road-map to Competitive Programming<br>
 <br>
@@ -10,10 +10,8 @@ Lets start with the road-map to Competitive Programming<br>
 
 ## Day 1 includes the following Problems
 
-
-* [EVENTUAL](https://www.codechef.com/problems/EVENTUAL) . [Sol](https://www.codechef.com/viewsolution/35823714)<br>
-* [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX) . [Sol](https://www.codechef.com/viewsolution/35836294)<br>
-* [ADDREV](https://www.spoj.com/problems/ADDREV/) . [Sol]()
-
-
-
+|   Problems    |   Solutions   |
+| ------------- | ------------- |
+|  [EVENTUAL](https://www.codechef.com/problems/EVENTUAL)           | [Sol](https://www.codechef.com/viewsolution/35823714)                                |
+|  [ORTHODOX](https://www.codechef.com/COOK120B/problems/ORTHODOX)  | [Sol](https://www.codechef.com/viewsolution/35836294)                                |
+|  [ADDREV](https://www.spoj.com/problems/ADDREV/)                  | [Sol](https://github.com/SubhamPanigrahi/CPDailyDose/blob/master/Day%201/addrev.cpp) |
