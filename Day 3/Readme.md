@@ -2,7 +2,7 @@
 -------------------------------------------------------------------
 
 Resources 
-* Watch this video on Big-Oh Notation (here)[https://www.youtube.com/watch?v=__vX2sjlpXU]
+* InterviewBit's Time Complexity Analysis (resource)[https://www.interviewbit.com/courses/programming/topics/time-complexity/]
 
 Common Mistakes while solcving Problems
 ---------------------------------------
@@ -46,7 +46,7 @@ int main()
 
 |   Problems                                                             |    Solutions                                                |
 | -------------                                                          |  -------------                                              |
-| (TEST)[https://www.codechef.com/LRNDSA01/problems/TEST]                | (sol)[https://www.codechef.com/viewsolution/30955976]       |
+| (TEST)[https://www.codechef.com/LRNDSA01/problems/TEST/]                | (sol)[https://www.codechef.com/viewsolution/30955976/]       |
 | (FLOW007)[https://www.codechef.com/LRNDSA01/problems/FLOW007]          | (sol)[https://www.codechef.com/viewsolution/30956169]       |
 | (LAPIN)[https://www.codechef.com/LRNDSA01/problems/LAPIN]              | (sol)[https://www.codechef.com/viewsolution/30961518]       |
 | (ZCO14003)[https://www.codechef.com/LRNDSA01/problems/ZCO14003]        | (sol)[https://www.codechef.com/viewsolution/30962221]       |
