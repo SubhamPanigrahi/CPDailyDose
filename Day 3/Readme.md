@@ -2,7 +2,7 @@
 -------------------------------------------------------------------
 
 Resources 
-* Watch this video on Big-Oh Notation (here)[https://www.youtube.com/watch?v=__vX2sjlpXU]
+* InterviewBit's Resource on Time Complexity Analysis (here)[https://www.interviewbit.com/courses/programming/topics/time-complexity]
 
 Common Mistakes while solcving Problems
 ---------------------------------------
@@ -44,16 +44,16 @@ int main()
 
 ## Day 3 includes the following Problems
 
-|   Problems                                                            |   Solutions                                                |
-| -------------                                                         | -------------                                              |
-|(TEST)[https://www.codechef.com/LRNDSA01/problems/TEST]                |(sol)[https://www.codechef.com/viewsolution/30955976]       |
-|(FLOW007)[https://www.codechef.com/LRNDSA01/problems/FLOW007]          |(sol)[https://www.codechef.com/viewsolution/30956169]       |
-|(LAPIN)[https://www.codechef.com/LRNDSA01/problems/LAPIN]              |(sol)[https://www.codechef.com/viewsolution/30961518]       |
-|(ZCO14003)[https://www.codechef.com/LRNDSA01/problems/ZCO14003]        |(sol)[https://www.codechef.com/viewsolution/30962221]       |
-|(CARVANS)[https://www.codechef.com/LRNDSA01/problems/CARVANS]          |(sol)[https://www.codechef.com/viewsolution/30962832]       |
-|(FCTRL)[https://www.codechef.com/LRNDSA01/problems/FCTRL]              |(sol)[https://www.codechef.com/viewsolution/30976558]       |
-|(CONFLIP)[https://www.codechef.com/LRNDSA01/problems/CONFLIP]          |(sol)[https://www.codechef.com/viewsolution/30977388]       |
-|(LADDU)[https://www.codechef.com/LRNDSA01/problems/LADDU]              |(sol)[https://www.codechef.com/viewsolution/30980312]       |
-|(MULTHREE)[https://www.codechef.com/LRNDSA01/problems/MULTHREE]        |(sol)[https://www.codechef.com/viewsolution/31001718]       |
-
+|    Problems                                                            |    Solutions                                                |
+|  -------------                                                         |  -------------                                              |
+| (`TEST`)[https://www.codechef.com/LRNDSA01/problems/TEST]                | (sol)[https://www.codechef.com/viewsolution/30955976]       |
+| (FLOW007)[https://www.codechef.com/LRNDSA01/problems/FLOW007]          | (sol)[https://www.codechef.com/viewsolution/30956169]       |
+| (LAPIN)[https://www.codechef.com/LRNDSA01/problems/LAPIN]              | (sol)[https://www.codechef.com/viewsolution/30961518]       |
+| (ZCO14003)[https://www.codechef.com/LRNDSA01/problems/ZCO14003]        | (sol)[https://www.codechef.com/viewsolution/30962221]       |
+| (CARVANS)[https://www.codechef.com/LRNDSA01/problems/CARVANS]          | (sol)[https://www.codechef.com/viewsolution/30962832]       |
+| (FCTRL)[https://www.codechef.com/LRNDSA01/problems/FCTRL]              | (sol)[https://www.codechef.com/viewsolution/30976558]       |
+| (CONFLIP)[https://www.codechef.com/LRNDSA01/problems/CONFLIP]          | (sol)[https://www.codechef.com/viewsolution/30977388]       |
+| (LADDU)[https://www.codechef.com/LRNDSA01/problems/LADDU]              | (sol)[https://www.codechef.com/viewsolution/30980312]       |
+| (MULTHREE)[https://www.codechef.com/LRNDSA01/problems/MULTHREE]        | (sol)[https://www.codechef.com/viewsolution/31001718]       |
+ 
 
