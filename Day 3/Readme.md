@@ -2,7 +2,7 @@
 -------------------------------------------------------------------
 
 Resources 
-* InterviewBit's Resource on Time Complexity Analysis - (here)[]
+InterviewBit's Resource on Time Complexity Analysis - (here)[https://www.interviewbit.com/courses/programming/topics/time-complexity/]
 
 Common Mistakes while solcving Problems
 ---------------------------------------
